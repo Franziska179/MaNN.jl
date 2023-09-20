@@ -1,0 +1,13 @@
+name = "MaNN"
+uuid = "6e25a035-9d6e-43df-a70b-dc8684dcf49a"
+authors = ["Franziska Hochsprung"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
